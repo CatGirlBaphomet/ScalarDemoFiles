@@ -1,0 +1,11 @@
+{
+    "projects": ["Project1", "Project2", "Project3", "Project4", "Project5", "Project6"],
+    "versions": {
+        "Project1": ["v1", "v1.1", "v2"],
+        "Project2": ["v1", "v2", "v2.1"],
+        "Project3": ["v1"],
+        "Project4": ["v1", "v2", "2.1", "v3", "v4", "v4.1"],
+        "Project5": ["v1", "v2", "v2.2"],
+        "Project6": ["v1", "v2"]
+    }
+  }
